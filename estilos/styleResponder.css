@@ -1,0 +1,52 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+.container {
+    width: 60%;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    text-align: center;
+    color: #22492b;
+}
+.question {
+    margin-bottom: 20px;
+}
+fieldset {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+legend {
+    font-weight: bold;
+    padding: 0 10px;
+    color: #235a30;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+    padding-left: 10px;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.submit-btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #275f34;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.submit-btn:hover {
+    background-color: #218838;
+}
